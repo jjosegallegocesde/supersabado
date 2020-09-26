@@ -52,13 +52,12 @@
                 <?php  if(isset($_POST["botonCalcular"])): ?>
                     <h4 class="text-danger text-center">
                         <?php 
+                            
                             $precioProducto1=$_POST["precio1"];
                             $nombreProducto1=$_POST["producto1"];
-    
+
                             $costoEnvio=5000;
-    
                             $total=$precioProducto1+$costoEnvio;
-    
                             echo("El total de la compra es de: ".$total);
                         ?>
                     </h4>

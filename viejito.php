@@ -11,7 +11,7 @@ $producto8='azucar';
 $producto9='cerveza';
 $producto10='carne';
 
-$precio1=1200;
+$precio1=1600;
 $precio2=15000;
 $precio3=12000;
 $precio4=4000;
