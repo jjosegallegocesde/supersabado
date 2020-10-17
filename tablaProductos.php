@@ -11,7 +11,10 @@
 <main>
 
 
-<?php 
+<?php
+
+//cedula,nombre,apellido,telefono,edad
+//(5 personas)
 
 $productos=array(
     "producto1"=>array("nombre"=>"arroz","precio"=>1600,"marca"=>"diana"),
