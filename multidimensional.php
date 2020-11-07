@@ -24,7 +24,7 @@ foreach($productos as $producto){
     echo($producto["nombre"]);
     echo("<br>");
 
-}
+
 
 
 ?>

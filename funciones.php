@@ -20,6 +20,9 @@ saludar("Catalina");
 saludar($nombre);
 
 
+//funcion que sume 2 numeros
+//retornar la suma multiplicar el resultado por 2
+
 
 
 
