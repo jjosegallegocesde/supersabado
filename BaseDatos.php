@@ -4,7 +4,7 @@ class BaseDatos{
 
 //VARIABLES == ATRIBUTOS
 public $usuarioBD="root";
-public $passwordBD="jdajkaldjadkljadkjasdk";
+public $passwordBD="";
 
 //FUNCION ESPECIAL PARA SACAR COPIAS DE LA CLASE(EL CONSTRUCTOR)
 public function __construct(){}
